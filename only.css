@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(160, 98, 218);
+    color: #e77171;
+    font-size: medium;
+}
+ul{
+    list-style: circle;
+}
+nav{
+    background-color: rgb(103, 179, 179);
+}
